@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Crew
+email: hi@crew.lk
+description: > # this means to ignore newlines until "baseurl:"
+  We are a open innovation house based in Sri Lanka. We are free and open thinking technology professionals working as a tight knit team.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://crew.lk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: crewlogic
+github_username:  crewlogic
+instagram_username:  crewlogic
+twitter_username:  crewlogic
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - amp-jekyll
+  - jekyll-analytics
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+minima:
+  date_format: "%b %-d, %Y"
+
+
+header_pages:
+- services.md
+- about.md
+- posts.md
+- contact.md
+google_analytics: UA-131920458-1
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-131920458-1          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
