@@ -9,4 +9,6 @@ permalink: /contact/
 
 Crew will work alongside you to do great things. Get in touch with us to get started:
 
-hi@crew.lk
+* hi@crew.lk
+
+* [Crew is on LinkedIn](https://www.linkedin.com/company/crew-lk/)

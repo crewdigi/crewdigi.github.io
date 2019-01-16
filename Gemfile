@@ -25,4 +25,5 @@ group :jekyll_plugins do
    gem 'amp-jekyll'
    gem 'jekyll-analytics'
    gem 'jekyll-seo-tag'
+   gem 'jekyll-sitemap'
 end

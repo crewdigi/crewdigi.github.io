@@ -28,6 +28,7 @@ twitter_username:  crewlogic
 markdown: kramdown
 theme: minima
 gems:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
   - amp-jekyll
