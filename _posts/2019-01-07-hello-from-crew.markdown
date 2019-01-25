@@ -4,22 +4,12 @@ title:  "Hello from Crew"
 date:   2019-01-07 21:51:26 +0530
 categories: news
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Crew was founded in 2018. We started out with two people, and today we’re a company of about 10 spread out across 6 different cities around Sri Lanka. Our headquarters is in Colombo, but everyone at Crew is free to live and work wherever they want. Many of us love working remotely!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We’re designers, programmers, tinkerers, writers, speakers, bikers, engineers, runners, developers, chefs, analysts, campers, musicians, filmmakers, knitters, hikers, authors, photographers, pilots, race car drivers, readers, travelers, gardeners, volunteers, parents, and hard workers.
 
-Jekyll also offers powerful support for code snippets:
+Please help us to spread the word of mouth about what we do and who we are, as we are a young start-up it will mean allot for us.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* [Follow us on Twitter](https://twitter.com/crewlogic)
+* [Follow us on Instagram](https://www.instagram.com/crewlogic/)
+* [Follow us on Facebook](https://www.facebook.com/Crew-275811169783985/)
