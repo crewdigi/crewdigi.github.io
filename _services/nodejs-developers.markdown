@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Our Key Services
-menu_title: Services
+title: Node JS Developers in Sri Lanka
 permalink: /services/nodejs-developers
 ---
 

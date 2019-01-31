@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Our Key Services
-menu_title: Services
+title: React js and React Native Developers in Sri Lanka
 permalink: /services/reactjs-developers
 ---
 

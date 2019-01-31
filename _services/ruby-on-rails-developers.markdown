@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Our Key Services
-menu_title: Services
+title: Ruby on Rails Developers in Sri Lanka
 permalink: /services/ruby-on-rails-developers
 ---
 

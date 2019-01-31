@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Laravel and Lumen Developers in Sri Lanka
-permalink: /services/laravel-developers
+title: WordPress Developers in Sri Lanka
+permalink: /services/wordpress-developers
 ---
 
 

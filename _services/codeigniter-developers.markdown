@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Laravel and Lumen Developers in Sri Lanka
-permalink: /services/laravel-developers
+title: CodeIgniter Developers in Sri Lanka
+permalink: /services/codeigniter-developers
 ---
 
 
