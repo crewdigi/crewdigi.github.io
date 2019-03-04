@@ -16,7 +16,7 @@
 title: Crew
 email: hi@crew.lk
 description: > # this means to ignore newlines until "baseurl:"
-  We are a open innovation house based in Sri Lanka. We are free and open thinking technology professionals working as a tight knit team.
+  We are an open innovation business based in Sri Lanka. We are free and open thinking technology professionals working as a tight-knit team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crew.lk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: crewlogic

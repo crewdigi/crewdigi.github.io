@@ -6,7 +6,7 @@ permalink: /services/
 ---
 
 
-Our team always loves an interesting challenge, and has the experience necessary to make your project a resounding success. While our team of designers and researchers have the capability to take on just about anything you throw at us, here are a few areas we specialize in:
+Our team always loves an exciting challenge and has the experience necessary to make your project a resounding success. While our team of designers and researchers have the ability to take on just about anything you throw at us, here are a few areas we specialize in:
 
 
 
