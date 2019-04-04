@@ -3,30 +3,31 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {% if site.author %}
-            {{ site.author | escape }}
-            {% else %}
-            {{ site.title | escape }}
-            {% endif %}
-          </li>
-          {% if site.email %}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endif %}
+            <h2 class="footer-heading">Our Servises</h2>
+
+        <ul class="social-media-list">
+          <li><a href="/services/laravel-developers">Laravel Development</a></li>
+          <li><a href="/services/ruby-on-rails-developers">Ruby on Rails Development</a></li>
+          <li><a href="/services/reactjs-developers">React js Development</a></li>
+          <li><a href="/services/front-end-developers">Front end Development</a></li>
+          <li><a href="/services/nodejs-developers">Node JS Development</a></li>
+          <li><a href="/services/wordpress-developers">WordPress Development</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+            <h2 class="footer-heading">Reach us</h2>
+
         {% include social.html %}
       </div>
 
       <div class="footer-col footer-col-3">
+        <h2 class="footer-heading">About Crew</h2>
         <p>{{ site.description | escape }}</p>
+        <a href="/about/">Learn more</a>
       </div>
     </div>
 
