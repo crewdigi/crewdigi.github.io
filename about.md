@@ -8,7 +8,7 @@ permalink: /about/
 
 Crew was founded in 2018. We started out with two people, and today we’re a company of about 10 spread out across 6 different cities around Sri Lanka. Our headquarters is in Colombo, but everyone at Crew is free to live and work wherever they want. Many of us love working remotely!
 
-We’re designers, programmers, tinkerers, writers, speakers, bikers, engineers, runners, developers, chefs, analysts, campers, musicians, filmmakers, knitters, hikers, authors, photographers, pilots, race car drivers, readers, travelers, gardeners, volunteers, parents, and hard workers.
+We’re designers, programmers, tinkerers, writers, speakers, bikers, engineers, runners, developers, chefs, analysts, campers, musicians, filmmakers, knitters, hikers, authors, photographers, deep ocean divers, race car drivers, readers, travelers, gardeners, volunteers, parents, and hard workers.
 
 ### Always at your service
 
