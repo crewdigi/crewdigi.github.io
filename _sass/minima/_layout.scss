@@ -173,6 +173,23 @@
   width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
+
+
+.bottom-wrapper {
+max-width: -webkit-calc(800px - (30px));
+max-width: calc(800px - (30px));
+margin-right: auto;
+margin-left: auto;
+padding-right: 15px;
+padding-left: 15px;
+padding-top: 20px;
+text-align: center;
+border-top: 1px solid #e8e8e8;
+color: #828282;
+}
+
+
+
 @media screen and (min-width: $on-large) {
   .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
