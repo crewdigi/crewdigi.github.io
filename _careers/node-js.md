@@ -25,3 +25,9 @@ We are looking for a Node.js Developer to join our fun, energetic team who are r
 * Familiarity with the whole web stack, including protocols and web server optimization techniques
 * Strong analytical skills and problem solving aptitude
 * Attention to details
+
+### Apply
+
+Apply via our email hi@crew.lk, please  add the subject as "Working at Crew Node.js Developer"
+
+* [Crew is on LinkedIn](https://www.linkedin.com/company/crew-lk/)

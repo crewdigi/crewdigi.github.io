@@ -27,3 +27,11 @@ We are looking for an experienced top-notch full-stack developer to grow with ou
 * Team player
 * Good time-management skills
 * Great interpersonal and communication skills
+
+
+
+### Apply
+
+Apply via our email hi@crew.lk, please  add the subject as "Working at Crew React.js Developer"
+
+* [Crew is on LinkedIn](https://www.linkedin.com/company/crew-lk/)
