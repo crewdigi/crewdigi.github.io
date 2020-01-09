@@ -301,11 +301,12 @@ color: #828282;
 
 
 
-hero {
-  text-align: center !important;
+.hero {
 
   h1 {
-    
+    font-size: 98px;
+    line-height: 1;
+    font-weight: 700;
   }
 
   .btn {

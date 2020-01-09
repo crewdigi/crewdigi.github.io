@@ -6,9 +6,9 @@ description: We the Crew!
 permalink: /contact/
 ---
 
+# Become a client
 
-Crew will work alongside you to do great things. Get in touch with us to get started:
 
-* hi@crew.lk
+Our clients get the best results when they have our team dedicated to their business for extended periods of time. This is why we are looking for ongoing collaboration where our professionals are like your team members who just happen to be remote. Ready to move forward?
 
-* [Crew is on LinkedIn](https://www.linkedin.com/company/crew-lk/)
+

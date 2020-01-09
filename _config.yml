@@ -4,16 +4,15 @@ description: > # this means to ignore newlines until "baseurl:"
   We are an open innovation business based in Sri Lanka. We are free and open thinking technology professionals working as a tight-knit team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crew.lk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: crewlogic
-linkedin_username: crewlogic
-facebook_username:  crewlogic
-instagram_username:  crewlogic
-github_username:  crewlogic
+linkedin_username: crewdigi
+facebook_username:  crewdigi
+instagram_username:  crewdigi
+github_username:  crewdigi
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
